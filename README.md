@@ -1,0 +1,1 @@
+This program models not determined finite automat
